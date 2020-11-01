@@ -1,10 +1,10 @@
 # Motion-Planning-Algorithms
 
-There are plenty of motion planning algorithms developed for finding a feasible path between 2 points in a given map. They are categorized as:
-Grid-based Search Algorithms - Dijkstra, A*
-Interval-based Search Algorithms
-Geometric Algorithms - Visibility Graph, Cell Decomposition, Minkowski Sum
-Artificial Potential Field Algorithms
+There are plenty of motion planning algorithms developed for finding a feasible path between 2 points in a given map. They are categorized as:<br/>
+Grid-based Search Algorithms - Dijkstra, A*<br/>
+Interval-based Search Algorithms<br/>
+Geometric Algorithms - Visibility Graph, Cell Decomposition, Minkowski Sum<br/>
+Artificial Potential Field Algorithms<br/>
 Sampling Based Algorithms
 
 
